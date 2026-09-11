@@ -46,9 +46,17 @@ Uses a scatter plot, the correlation coefficient, and a regression line to exami
 * The results suggest that the two countries' labor markets were influenced by different domestic economic conditions rather than consistently moving together.
 
 ## Visualization
-### Unemployment Trends
-![Unemployment Analysis](unemployment_analysis.png)
-The visualization includes unemployment trends, moving averages, the unemployment gap, growth rates, ratios, and the relationship between Japan and the Philippines.
+### Unemployment Rate Comparison
+![Unemployment Comparison](images/unemployment_comparison.png)
+
+### 5-Year Moving Average
+![Unemployment Moving Average](images/unemployment_moving_average.png)
+
+### Unemployment Gap
+![Unemployment Gap](images/unemployment_gap.png)
+
+### Relationship Between Japanese and Philippine Unemployment
+![Unemployment Correlation](images/unemployment_correlation.png)
 
 ## Limitations
 Correlation does not imply causation.
