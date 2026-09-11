@@ -30,11 +30,7 @@ Uses moving averages to smooth short-term fluctuations and highlight long-term l
 Calculates:
 **Japan Unemployment - Philippines Unemployment**
 This shows the difference in  unemployment rates between the two countries.
-### 4. Growth Rate Analysis
-Examines year-to-year changes in unemployment.
-### 5. Ratio Analysis
-Compares the relative unemployment rates of the two countries.
-### 6. Correlation Analysis
+### 4. Correlation Analysis
 Uses a scatter plot, the correlation coefficient, and a regression line to examine whether unemployment rates in Japan and the Philippines tend to move together.
 
 ## Key Findings
