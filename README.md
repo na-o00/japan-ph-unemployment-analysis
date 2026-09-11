@@ -41,6 +41,9 @@ Uses a scatter plot, the correlation coefficient, and a regression line to exami
 * The regression slope was approximately **-0.07**, suggesting that there was very little linear association between the two unemployment rates.
 * The results suggest that the two countries' labor markets were influenced by different domestic economic conditions rather than consistently moving together.
 
+## Skills Demonstrated
+Python | pandas | NumPy | Matplotlib | Data Analysis | Data Visualization
+
 ## Visualization
 ### Unemployment Rate Comparison
 ![Unemployment Comparison](images/unemployment_comparison.png)
